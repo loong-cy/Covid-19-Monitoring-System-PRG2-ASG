@@ -3,7 +3,7 @@ Polytechnic Programming II module — Pair Programming Project
 
 ## Project Background
 
-This project was developed as part of a Polytechnic Programming II module to apply Object-Oriented Programming concepts to simulate a simplified COVID-19 monitoring system implemented in Singapore.
+This project was developed as part of a Polytechnic Programming II module to apply Object-Oriented Programming concepts using C# to simulate a simplified COVID-19 monitoring system implemented in Singapore.
 The system models several measures used during the pandemic, focusing on **TravelEntry and Stay-Home Notice (SHN) requirements, SafeEntry, and TraceTogether**.
 
 ## How the system works
